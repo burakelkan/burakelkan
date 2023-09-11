@@ -14,6 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=burakelkan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=burakelkan&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=burakelkan&icon=9&color=0)]([https://visitcount.itsvg.in](https://yusufburakelkann.blogspot.com/2023/01/hakkmda.html)https://yusufburakelkann.blogspot.com/2023/01/hakkmda.html)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
